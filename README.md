@@ -30,5 +30,5 @@ Le code est accessible à tout le monde, sans spécifités particulières.
 ### Structure
 ├── [Alpha](./Alpha)  
 │   ├── [photos](./Alpha/photos)  
-│   ├── [sortphotos](./Alpha/sortphotos)
+│   ├── [sortphotos](./Alpha/sortphotos)  
 ├── [sortpics.py](./sortpics.py)  
