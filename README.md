@@ -31,4 +31,8 @@ Le code est accessible à tout le monde, sans spécifités particulières.
 ├── [Alpha](./Alpha)  
 │   ├── [photos](./Alpha/photos)  
 │   ├── [sortphotos](./Alpha/sortphotos)  
+│   ├── ├── [A](./Alpha/sortphotos/A)  
+│   ├── ├── [...](./Alpha/sortphotos)  
+│   ├── ├── ├── [1](./Alpha/sortphotos/A/1)  
+│   ├── ├── ├── [...](./Alpha/sortphotos/A)  
 ├── [sortpics.py](./sortpics.py)  
